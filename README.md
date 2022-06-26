@@ -1,2 +1,2 @@
-# Rust-Unity
+# Rust Unity
 Rust Unity
